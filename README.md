@@ -1,4 +1,5 @@
 # COVID19-TRACKING
+<strong>"This project was aimed to track realtime COVID19 cases with detailed report.</strong>
 <table>  
   <tr>
     <td><img src="Screenshots/1.png"></td>
