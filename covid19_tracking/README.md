@@ -1,6 +1,6 @@
 # covid19_tracking
 
-A new Flutter project.
+This project was aimed to track realtime COVID19 cases with detailed report.
 
 ## Getting Started
 
